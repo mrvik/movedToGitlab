@@ -1,2 +1,2 @@
 # movedToGitlab
-I've moved to GitLab
+I've moved to GitLab. https://gitlab.com/mrvik
